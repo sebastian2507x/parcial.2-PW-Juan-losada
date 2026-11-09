@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\config\SecurityConfig.java
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\config\SwaggerConfig.java
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\ConsultasMedicasApplication.java
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\controller\ConsultaRestController.java
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\controller\MedicoRestController.java
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\controller\WebController.java
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\model\Consulta.java
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\model\Medico.java
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\model\Usuario.java
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\repository\ConsultaRepository.java
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\repository\MedicoRepository.java
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\repository\UsuarioRepository.java
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\service\ConsultaService.java
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\service\MedicoService.java
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\service\UsuarioDetailsService.java
+C:\Users\USER\OneDrive\Escritorio\parcial2\consultas_medicas\src\main\java\co\edu\usco\pw\consultas\ServletInitializer.java

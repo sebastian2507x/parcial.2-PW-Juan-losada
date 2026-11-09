@@ -1,0 +1,16 @@
+co\edu\usco\pw\consultas\ConsultasMedicasApplication.class
+co\edu\usco\pw\consultas\ServletInitializer.class
+co\edu\usco\pw\consultas\model\Medico.class
+co\edu\usco\pw\consultas\repository\ConsultaRepository.class
+co\edu\usco\pw\consultas\service\MedicoService.class
+co\edu\usco\pw\consultas\controller\ConsultaRestController.class
+co\edu\usco\pw\consultas\controller\WebController.class
+co\edu\usco\pw\consultas\model\Consulta.class
+co\edu\usco\pw\consultas\controller\MedicoRestController.class
+co\edu\usco\pw\consultas\repository\UsuarioRepository.class
+co\edu\usco\pw\consultas\service\UsuarioDetailsService.class
+co\edu\usco\pw\consultas\repository\MedicoRepository.class
+co\edu\usco\pw\consultas\config\SwaggerConfig.class
+co\edu\usco\pw\consultas\config\SecurityConfig.class
+co\edu\usco\pw\consultas\service\ConsultaService.class
+co\edu\usco\pw\consultas\model\Usuario.class
